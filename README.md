@@ -1,16 +1,5 @@
-# untitled
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>notes app</h1>
+<h2>this app developed using flutter and firebase database</h2>
+<h3>you can download and try it by clicking <a href="https://media.githubusercontent.com/media/abdulwahed-s/notes-app/master/notX.apk?download=true">here!</a></h3>
+<h2>here is some images inside the app</h2>
+<img src="notXapp.png" alt="">
